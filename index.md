@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## 拉司体育
 
-You can use the [editor on GitHub](https://github.com/ACb1994/lsportnews/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+拉司体育是一款提供丰富体育新闻资讯的应用程式!包括各国体育新闻＼球星新闻等。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 应用特色
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---丰富足球赛事、体育明星相关新闻!
+---全方位报导最新体育赛事!
+---简单美观的资讯画面，资讯一目了然!
+---操作简单方便，体验顺畅
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+### 隐私权证策
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+“ 拉司体育”是一款快速报导最新足球新闻应用程式。
 
-### Jekyll Themes
+本隐私策略声明函盖了用户对于“拉司体育”应用程序中所有内容使用:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ACb1994/lsportnews/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+“拉司体育”不会收集、存储、分享用户的任何个人信息；也不会收集、存储、分享用户用于安装本应用的设备相关的信息。我们不会通过“拉司体育”应用程序收集任何统计数据和分析数据，也不会跟踪用户的行为。
 
-### Support or Contact
+本应用程序中所显示的所有文档内容都已经随程序静态安装，绝不会动态地使用用户的网络连接去下载获取任何额外的内容或资源。
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+“拉司体育”（隐私策略声明的修改及更新权均属于本应用的开发者所有。
