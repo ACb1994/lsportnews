@@ -12,6 +12,8 @@
 
 
 ### 连系我
+若对于此应用程式有任何意见，
+请发信给我，帮助我改善！  
 e-mail:andrewscobden@outlook.com  
 
 
